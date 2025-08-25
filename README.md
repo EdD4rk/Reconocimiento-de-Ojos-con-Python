@@ -64,4 +64,7 @@ Con este proyecto, se busca explorar y aplicar tecnologías avanzadas de **Big D
 
 ### Demostracion:
 
+<img width="1361" height="932" alt="image" src="https://github.com/user-attachments/assets/2746be8c-d2ae-4dcc-b030-05255d4757fa" />
+
+
 <img width="1365" height="715" alt="Captura de pantalla 2025-08-25 143852" src="https://github.com/user-attachments/assets/833b7399-e219-4443-8f7f-3c906574e12c" />
