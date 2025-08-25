@@ -1,6 +1,10 @@
-# Reconocimiento de Ojos con Redes Neuronales
+### Descripción del Proyecto
 
-Este proyecto implementa un sistema de **reconocimiento de ojos** en tiempo real utilizando **Deep Learning** con **PyTorch**. El sistema es capaz de identificar a personas a partir de las características únicas de sus ojos.
+Este proyecto fue desarrollado por **Davalos Bautista Lizbeth** y **Mendoza Ayma Edwin**, estudiantes de **Ingeniería de Sistemas e Informática** de la **Facultad de Ingeniería** de la **Universidad Tecnológica de los Andes**, como parte del curso de **Big Data**.  
+
+El sistema de **reconocimiento de ojos** utiliza **Deep Learning** para identificar a las personas a partir de sus ojos en tiempo real, superando las limitaciones del reconocimiento facial tradicional. Implementado con **PyTorch** y **OpenCV**, el proyecto permite detectar ojos a través de una cámara web, crear un **embedding** único de cada ojo y comparar con una base de datos para realizar la identificación. Además, el sistema incluye **alertas de voz** que avisan cuando se detecta una persona conocida.
+
+Con este proyecto, se busca explorar y aplicar tecnologías avanzadas de **Big Data** y **Reconocimiento Biométrico**, ofreciendo una solución práctica para **autenticación sin contacto** y **seguridad**.
 
 <img width="1200" height="493" alt="image" src="https://github.com/user-attachments/assets/ef5347f8-80aa-4135-95e3-e4e6e17ca308" />
 
@@ -56,3 +60,8 @@ Este proyecto implementa un sistema de **reconocimiento de ojos** en tiempo real
 ☑ Alertas de voz para identificar personas detectadas  
 ☑ Capacidad de reconocer múltiples ojos en una sola imagen  
 ☒ Reconocimiento en ángulos extremos (por mejorar en futuras versiones)
+```
+
+### Demostracion:
+
+<img width="1365" height="715" alt="Captura de pantalla 2025-08-25 143852" src="https://github.com/user-attachments/assets/833b7399-e219-4443-8f7f-3c906574e12c" />
