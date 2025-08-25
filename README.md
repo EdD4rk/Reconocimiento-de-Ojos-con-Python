@@ -2,6 +2,9 @@
 
 Este proyecto implementa un sistema de **reconocimiento de ojos** en tiempo real utilizando **Deep Learning** con **PyTorch**. El sistema es capaz de identificar a personas a partir de las características únicas de sus ojos.
 
+<img width="1200" height="493" alt="image" src="https://github.com/user-attachments/assets/ef5347f8-80aa-4135-95e3-e4e6e17ca308" />
+
+
 ## Instalación
 
 ### Requisitos:
