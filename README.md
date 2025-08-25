@@ -28,15 +28,18 @@ Este proyecto implementa un sistema de **reconocimiento de ojos** en tiempo real
     ```
 
 3. **Instalar las dependencias**:
-    Una vez tengas `pip` instalado, ejecuta el siguiente comando para instalar todas las dependencias necesarias:
+    Una vez tengas `pip` instalado, ejecuta los siguientes comandos para instalar todas las dependencias necesarias: `torch`,`opencv`,`numpy`,`pyttsx3`
     ```bash
-    pip install -r requirements.txt
+    pip install torch
+    pip install opencv-python
+    pip install numpy
+    pip install pyttsx3
     ```
 
 4. **Ejecutar el proyecto**:
-    Finalmente, ejecuta el script principal para iniciar el sistema:
+    Finalmente, ejecuta el script **`reconocimiento_camara.py`** para iniciar el sistema de reconocimiento en tiempo real:
     ```bash
-    python main.py
+    python reconocimiento_camara.py
     ```
 
     Puedes ver el sistema en acción directamente en tu cámara web local.
